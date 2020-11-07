@@ -1,0 +1,8 @@
+$pwd
+$git clone https://github.com/MrDseC/Spam-Call
+$cd Spam-Call
+$ls
+$pip install requests & pip install mechanize
+$pip list
+$python Spam-Call.py
+usage:Enter phone number to  Spam-Call
